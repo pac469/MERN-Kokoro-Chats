@@ -201,3 +201,4 @@ if (process.env.NODE_ENV === 'production'){
 
 app.listen(port, () => console.log(`Listening on localhost:${port}`))
 
+//mongodb+srv://admin:5ePpCRS5ojldMvhq@cluster0.hqyir.mongodb.net/kokorodb?retryWrites=true&w=majority
