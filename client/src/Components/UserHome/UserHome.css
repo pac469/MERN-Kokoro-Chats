@@ -1,0 +1,38 @@
+.userHome{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color:#ff7b7b; */
+    width:100vw;
+    border-radius: 20px;
+}
+
+.userHome > img{
+    border-radius:50%;
+    height:110px;
+    width:auto;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+    margin-bottom:20px;
+    background-color: #ff7b7b;
+    padding:10px;
+}
+
+.userHome > h1 {
+    color:#ff7b7b;
+    font-size: 60px;
+    margin-bottom: 30px;
+    
+}
+
+.userHome__button > button {
+    background-color:#ff7b7b;
+    border-radius:10px;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+    padding:15px;
+    font-weight: bold;
+    /* color: #ff7b7b; */
+    color:white;
+    border: none;
+    outline-width: 0;
+}

@@ -1,0 +1,60 @@
+.login{
+    background-color: #ff7b7b;
+    height:100vh;
+    width:100vw;
+    display:grid;
+    place-items:center;
+    
+}
+
+.login__container{
+    padding:100px;
+    text-align:center;
+    background-color:#ff7b7b;
+    border-radius: 10px;
+    
+}
+
+.login__logo {
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.login__logo > h1{
+    font-size: 100px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.login__logo > h1 > span> .MuiSvgIcon-root{
+    font-size: 80px;
+}
+
+.login__logo > .MuiSvgIcon-root{
+    font-size:100px;
+    margin:10px;
+    color:white;
+}
+
+
+.login__button{
+    margin-top: 50px;
+    padding:20px;
+    text-transform: inherit! important;
+    background-color:white !important;
+    font-size:20px;
+    font-weight: bold;
+    color:#ff5252;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12)
+}
+
+.login__button:hover {
+    background-color: lightgray;
+}   
+
+.link{
+    text-decoration: none;
+    color: inherit;
+  }
