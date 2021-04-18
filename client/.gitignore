@@ -4,14 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/Firebase.js
 /workspace.code-workspace
 
 # testing
 /coverage
 
 # production
-/build
+
 
 # misc
 .DS_Store

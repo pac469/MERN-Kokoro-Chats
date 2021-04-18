@@ -3,8 +3,7 @@ import './Login.css';
 import { Button } from "@material-ui/core";
 import LoyaltyIcon from '@material-ui/icons/Loyalty';
 import FavoriteIcon from '@material-ui/icons/Favorite';
-import { auth } from '../../Firebase';
-import { provider } from '../../Firebase';
+import { auth, provider} from '../../Firebase';
 import { actionTypes } from '../../reducer';
 import { useStateValue } from '../../StateProvider'
 import { Link } from 'react-router-dom';
