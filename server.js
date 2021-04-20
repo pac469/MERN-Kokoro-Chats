@@ -92,7 +92,7 @@ db.once('open',()=>{
 
 //api routes 
 
-app.get('/', (req,res)=>res.status(200).send("hello world"))
+
 
 app.get('/rooms/sync', (req,res) =>{
     Rooms.find((err,data) => {
