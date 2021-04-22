@@ -1,7 +1,7 @@
 # MERN-Kokoro-Chats
 
 
-Kokoro Chat is real-time chat web app (What's App Clone) made using the MERN Stack(Mongo DB, Express, React and Node JS), Pusher and Firebase. A demo for this app can be found [here](https://kokoro-chats.herokuapp.com){:target="_blank"}
+Kokoro Chat is real-time chat web app (What's App Clone) made using the MERN Stack(Mongo DB, Express, React and Node JS), Pusher and Firebase. A demo for this app can be found [here](https://kokoro-chats.herokuapp.com)
 
 ## Features
 
