@@ -20,7 +20,7 @@ Kokoro chats is based in chat rooms. A user creates a new chat room which contai
 ### Time Zone Handler 
 
 
-Kokora Chats display is capable to display in every message the time in which the user received the message, even if the user who sends the message was in a different timezone.
+Kokoro Chats display is capable to display in every message the time in which the user received the message, even if the user who sends the message was in a different timezone.
 
 
 
