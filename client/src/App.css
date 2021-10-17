@@ -6,8 +6,8 @@
   display:grid;
   place-items:center;
   height:100vh;
-  /* background-color: #ffbaba; */
-  background-color: red;
+  background-color: #ffbaba;
+  /* background-color: red; */
 }
 
 .app__body{
